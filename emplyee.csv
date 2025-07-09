@@ -1,0 +1,21 @@
+id,nom,age,poste,salaire,présent,notes,ville
+1,Alice,29,Développeur,5000,Yes,15,Paris
+2,Bob,,Chef Projet,,no,14,Lyon
+3,Claire,42,développeur,5200,YES,15,Paris
+4,David,1200,Analyste,5500,YES,15,   Paris
+5,Eve,38,Comptable,4700,Yes,16,paris
+6,Alice,29,Développeur,5000,Yes,15,Paris
+7,Frank,-5,Chef Projet,5200,No,14,Lille
+8,,35,Comptable,4600,yes,,Marseille
+9,Hugo,37,Consultant,abc,No,15,Toulouse
+10,Ivy,28,Consultant,4800,Non,15,Nan
+11,Jade,30,Data Scientist,6000,yes,17,Bordeaux
+12,Karl,32,,5700,YES,15,Paris
+13,Lina,25,Comptable,NaN,no,15,Nice
+14,Mohamed,45,Développeur,5200,yes,16,Lyon
+15,Nadia,NaN,Analyste,5100,Yes,14,lyon
+16,Oscar,33,Chef Projet,5200,no,15,Lille
+17,Paul,120,Data Scientist,5800,YES,NaN,Toulouse
+18,Quentin,38,Consultant,5600,yes,15,Paris
+19,Rachel,-10,Analyste,5300,no,13,paris
+20,Sami,41,Comptable,4900,YES,15,Lyon
